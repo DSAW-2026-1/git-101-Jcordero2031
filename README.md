@@ -8,6 +8,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:Julian Camilo Cordero Ramos**
-- **ID de la Universidad:0000349952**
-- **Usuario de Github:Jcordero2031**
+- **Nombre completo: Julian Camilo Cordero Ramos**
+- **ID de la Universidad: 0000349952**
+- **Usuario de Github: Jcordero2031**
